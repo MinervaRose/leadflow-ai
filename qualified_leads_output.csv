@@ -1,0 +1,45 @@
+lead_id,name,company,masked_email,sector,source,security_flag,summary,main_need,intent_level,ai_maturity,pain_points,use_cases,urgency,budget_signal,decision_maker_signal,llm_recommended_action,score,priority,next_action,scoring_reasons,personalized_email,risk_notes
+L001,Claire Martin,Agence Nova,cl***@example.com,Marketing agency,Website form,False,"Agence Nova, a marketing agency, seeks to automate lead qualification and commercial follow-ups, currently using Airtable and Gmail.",Automate lead qualification and commercial follow-ups,high,intermediate,Time-consuming lead qualification; Inefficient commercial follow-ups,Lead qualification automation; Sales follow-up automation,high,clear,likely,Schedule a discovery call to discuss integration possibilities with Airtable and Gmail and tailor the automation solution.,100,A,Book a diagnostic call,Clear business need; High intent; High urgency; Clear budget signal; Likely decision maker; Multiple relevant AI use cases,"Subject: Automating Lead Qualification and Follow-ups for Agence Nova
+
+Hi Claire,
+
+Thank you for reaching out. Automating lead qualification and commercial follow-ups can definitely help Agence Nova save valuable time and improve efficiency. Since you’re already using Airtable and Gmail, we can explore tailored automation solutions that integrate smoothly with your current tools.
+
+I suggest we schedule a brief discovery call this week to discuss your specific workflows and priorities. This will help us identify the best approach within your budget and timeline.
+
+Please let me know your availability, and I’ll arrange the meeting.
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",No security concerns. Information is clear and sufficient.
+L002,Karim Benali,ScaleOps,ka***@example.com,B2B SaaS,LinkedIn,False,Karim from ScaleOps wants an AI system to automate sales demo qualification by summarizing requests and integrating qualified leads into HubSpot.,Automated lead qualification and CRM integration,high,unclear,Sales team spends excessive time qualifying inbound demos,Lead qualification automation; CRM integration,high,absent,possible,"Engage with Karim to clarify budget and decision-making authority, and discuss tailored AI lead qualification solutions with HubSpot integration.",78,A,Book a diagnostic call,Clear business need; High intent; High urgency; Possible decision maker; Multiple relevant AI use cases,"Subject: Streamlining Lead Qualification for ScaleOps
+
+Hi Karim,
+
+Thanks for reaching out. I understand your sales team at ScaleOps is spending significant time qualifying inbound demos and you’re looking for an AI solution that summarizes requests and pushes qualified leads into HubSpot.
+
+I’d like to learn more about your current process and priorities to explore how we can tailor an automation system that fits your needs and timeline. Could we schedule a brief diagnostic call this week to discuss your goals, budget, and HubSpot integration requirements?
+
+Please let me know your availability, and I’ll send over a calendar invite.
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",Budget and AI maturity not specified; decision maker status unclear but role suggests possible influence.
+L003,Sophie Durand,Maison Verte,so***@example.com,E-commerce,Newsletter,False,"The CEO of an e-commerce company is exploring AI possibilities, particularly interested in content creation and customer support, but is unsure where to start and has no urgency.",Exploration and education on AI use cases in content creation and customer support,low,beginner,"Uncertainty about how to start with AI, lack of clarity on specific needs",content creation; customer support,low,absent,likely,Provide educational resources and introductory consultation to help clarify needs and potential AI applications,50,B,Send a qualification reply with targeted questions,Clear business need; Low intent; Likely decision maker; Multiple relevant AI use cases,"Subject: Exploring AI Opportunities for Maison Verte
+
+Hi Sophie,
+
+Thank you for reaching out and sharing your interest in AI for content creation and customer support. It’s great to see Maison Verte exploring how AI can add value.
+
+To better understand your needs and tailor our discussion, could you share a bit about your current content and customer support processes? For example, what challenges are you facing, or what goals you have in mind? Also, do you have any preferences on automation tools or platforms?
+
+I’d be happy to provide some introductory resources and set up a brief call to explore how AI might fit your business.
+
+Looking forward to your thoughts.
+
+Best regards,  
+[Your Name]  
+[Your Contact Information]",No clear budget or urgency; message indicates exploratory interest rather than immediate need.
+L004,Test Injection,Unknown,te***@example.com,Unknown,Suspicious form submission,True,Lead submitted a suspicious form with a stated budget and immediate timeline but message content is unavailable due to security concerns.,unclear,unclear,unclear,absent,,high,clear,unclear,Flag for manual review due to security concerns before any commercial engagement.,0,Manual Review,Do not automate response — review manually,High urgency; Clear budget signal; Security flag: human review required; Potential prompt injection detected,Manual review required — no automated email generated.,Message content removed due to potential prompt injection attempt; information is incomplete and suspicious; proceed with caution.
