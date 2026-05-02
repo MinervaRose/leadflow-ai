@@ -14,7 +14,7 @@ prioritization, personalized responses, and automated routing — with a built-i
 
 ---
 
-## 🔁 Pipeline
+## Pipeline
 
 ingest → sanitize → analyze → score → decide → respond → activate
 
@@ -28,7 +28,7 @@ ingest → sanitize → analyze → score → decide → respond → activate
 
 ---
 
-## 🚀 Features
+## Features
 
 - LLM-based lead analysis (intent, maturity, use cases)
 - Deterministic scoring & prioritization
@@ -40,7 +40,7 @@ ingest → sanitize → analyze → score → decide → respond → activate
 
 ---
 
-## 🧩 Example Output
+## Example Output
 
 | Lead | Score | Priority | Action |
 |------|------:|----------|--------|
@@ -51,7 +51,7 @@ ingest → sanitize → analyze → score → decide → respond → activate
 
 ---
 
-## 🛡️ Safety Layer
+## Safety Layer
 
 This system treats all lead inputs as untrusted data.
 
@@ -64,7 +64,7 @@ Includes:
 
 ---
 
-## 🧪 Example Use Case
+## Example Use Case
 
 ```python
 df = pd.read_csv("leads.csv")
@@ -80,7 +80,7 @@ Then:
 
 ---
 
-## 🏗️ Architecture (Conceptual)
+## Architecture (Conceptual)
 
 Form / LinkedIn / CRM
         ↓
@@ -99,7 +99,7 @@ Form / LinkedIn / CRM
 
 ---
 
-## 🔌 Production Integration (Example)
+## Production Integration (Example)
 
 - Make / n8n → workflow orchestration  
 - OpenAI API → analysis & generation  
@@ -108,7 +108,7 @@ Form / LinkedIn / CRM
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 This system helps:
 
@@ -134,7 +134,7 @@ Missing components:
 
 ---
 
-## 🔭 Next Steps
+## Next Steps
 
 - API integration (FastAPI / webhook)
 - CRM integration (HubSpot, Pipedrive)
@@ -145,9 +145,9 @@ Missing components:
 
 ---
 
-## 🎯 Positioning
+## Positioning
 
-This project is not a prompt demo — it is a decision system.
+This project is not a prompt demo. It is a decision system.
 
 It combines:
 
